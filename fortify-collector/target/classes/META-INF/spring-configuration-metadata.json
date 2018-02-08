@@ -1,0 +1,18 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.company.dd.fortifycollector.DataSourceConfigs",
+      "name": "fortify.datasource",
+      "sourceMethod": "public javax.sql.DataSource dataSource() ",
+      "type": "javax.sql.DataSource"
+    },
+    {
+      "sourceType": "com.company.dd.fortifycollector.DataSourceConfigs",
+      "name": "spring1.task.datasource",
+      "sourceMethod": "public javax.sql.DataSource getDataSource() ",
+      "type": "javax.sql.DataSource"
+    }
+  ],
+  "properties": []
+}

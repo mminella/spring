@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: fortify-collector
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: v160771
+Implementation-Vendor-Id: com.verizon.dd
+Build-Jdk: 1.8.0_112
+Implementation-URL: http://projects.spring.io/spring-boot/fortify-coll
+ ector/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+

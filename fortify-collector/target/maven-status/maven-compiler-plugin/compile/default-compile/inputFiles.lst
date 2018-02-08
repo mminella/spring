@@ -1,0 +1,17 @@
+C:\Users\v160771\Documents\development\appsec\java\source\os4v_developerdashboard\collectors\fortify-collector\src\main\java\com\verizon\dd\fortifycollector\batch\CassandraBatchItemWriter.java
+C:\Users\v160771\Documents\development\appsec\java\source\os4v_developerdashboard\collectors\fortify-collector\src\main\java\com\verizon\dd\fortifycollector\batch\JobCompletionNotificationListener.java
+C:\Users\v160771\Documents\development\appsec\java\source\os4v_developerdashboard\collectors\fortify-collector\src\main\java\com\verizon\dd\fortifycollector\cassandra\model\CScan.java
+C:\Users\v160771\Documents\development\appsec\java\source\os4v_developerdashboard\collectors\fortify-collector\src\main\java\com\verizon\dd\fortifycollector\batch\CassandraItemProcessor.java
+C:\Users\v160771\Documents\development\appsec\java\source\os4v_developerdashboard\collectors\fortify-collector\src\main\java\com\verizon\dd\fortifycollector\cassandra\model\CScanPrimaryKey.java
+C:\Users\v160771\Documents\development\appsec\java\source\os4v_developerdashboard\collectors\fortify-collector\src\main\java\com\verizon\dd\fortifycollector\fortify\rdbms\repository\FortifyPVRepository.java
+C:\Users\v160771\Documents\development\appsec\java\source\os4v_developerdashboard\collectors\fortify-collector\src\main\java\com\verizon\dd\fortifycollector\fortify\rdbms\model\ProjectVersion.java
+C:\Users\v160771\Documents\development\appsec\java\source\os4v_developerdashboard\collectors\fortify-collector\src\main\java\com\verizon\dd\fortifycollector\batch\tasklet\GetLastScanPulledTasklet.java
+C:\Users\v160771\Documents\development\appsec\java\source\os4v_developerdashboard\collectors\fortify-collector\src\main\java\com\verizon\dd\fortifycollector\cassandra\CassandraConfig.java
+C:\Users\v160771\Documents\development\appsec\java\source\os4v_developerdashboard\collectors\fortify-collector\src\main\java\com\verizon\dd\fortifycollector\fortify\rdbms\repository\FortifyScanRepository.java
+C:\Users\v160771\Documents\development\appsec\java\source\os4v_developerdashboard\collectors\fortify-collector\src\main\java\com\verizon\dd\fortifycollector\batch\ScanItemReader.java
+C:\Users\v160771\Documents\development\appsec\java\source\os4v_developerdashboard\collectors\fortify-collector\src\main\java\com\verizon\dd\fortifycollector\batch\FortifyJobScheduler.java
+C:\Users\v160771\Documents\development\appsec\java\source\os4v_developerdashboard\collectors\fortify-collector\src\main\java\com\verizon\dd\fortifycollector\cassandra\repository\ReactiveScanRepository.java
+C:\Users\v160771\Documents\development\appsec\java\source\os4v_developerdashboard\collectors\fortify-collector\src\main\java\com\verizon\dd\fortifycollector\fortify\rdbms\model\Scan.java
+C:\Users\v160771\Documents\development\appsec\java\source\os4v_developerdashboard\collectors\fortify-collector\src\main\java\com\verizon\dd\fortifycollector\FortifyCollectorApplication.java
+C:\Users\v160771\Documents\development\appsec\java\source\os4v_developerdashboard\collectors\fortify-collector\src\main\java\com\verizon\dd\fortifycollector\fortify\rdbms\model\Project.java
+C:\Users\v160771\Documents\development\appsec\java\source\os4v_developerdashboard\collectors\fortify-collector\src\main\java\com\verizon\dd\fortifycollector\batch\FortifySSCBatchConfigurationCassandra.java
